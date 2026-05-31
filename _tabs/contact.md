@@ -1,7 +1,10 @@
+
 ---
 title: 联系
-layout: page
+icon: fas fa-envelope
+order: 5    # 添加这一行，数字越小越靠前
 permalink: /contact/
+layout: page
 ---
 
 ## 给我留言
